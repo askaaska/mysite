@@ -1,0 +1,11 @@
+feature,importance,fold,seed
+Season,0.2,2.0,42.0
+T1_seed_ALL,80.8,2.0,42.0
+T1winrate,98.2,2.0,42.0
+T1winrate_vsT2_ALL,57.4,2.0,42.0
+T1winrate_vsT2_vsT2_ALL,184.2,2.0,42.0
+T2winrate,99.4,2.0,42.0
+T2winrate_vsT2_ALL,74.0,2.0,42.0
+seeddiff,355.0,2.0,42.0
+seeddiff_vsT2_ALL,361.2,2.0,42.0
+winratediff_ALL,59.2,2.0,42.0
